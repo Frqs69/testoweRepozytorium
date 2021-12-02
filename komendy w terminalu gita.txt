@@ -1,0 +1,4 @@
+git init - tworzy puste repo
+git add plik - dodaje plik do repo
+git add . - dodaje wszystkie pliki w folderze do repo
+git status - pokazuje stan repozytorium
